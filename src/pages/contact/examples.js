@@ -9,10 +9,9 @@ export default class Index extends React.Component {
         <section className="section">
           <div className="container">
             <div className="content">
-              <h1>Hi people</h1>
+              <h1>Greetings!</h1>
               <p>
-                This is an example site integrating Netlify’s form handling with
-                Gatsby
+                Please reach out with questions regarding mosi.cafe
               </p>
               <ul>
                 <li>
