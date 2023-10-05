@@ -84,6 +84,7 @@ pricing:
         - One or two varieties of beans"
       plan: Small
       price: '50'
+      eventTriggerMC: 'eventTriggerStringMC'
     - description: 'Great for avid drinkers, java-loving couples and bigger crowds'
       items:
         - 6 lbs of coffee per month
@@ -91,6 +92,7 @@ pricing:
         - Up to 4 different varieties of beans
       plan: Big
       price: '80'
+      eventTriggerMC: 'eventTriggerStringMC'
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
         - Whatever you need
@@ -98,4 +100,5 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: '??'
+      eventTriggerMC: 'eventTriggerStringMC'
 ---
