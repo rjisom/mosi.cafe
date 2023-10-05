@@ -1,6 +1,6 @@
 {
   "name": "mosi-cafe",
-  "description": "Gatsby, and Netlify CMS project for mosi.cafe",
+  "description": "mosi.cafe site",
   "version": "1.1.4",
   "author": "Austin Green",
   "dependencies": {
