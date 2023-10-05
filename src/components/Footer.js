@@ -65,6 +65,12 @@ const Footer = () => {
                       Contact
                     </Link>
                   </li>
+                  <li>
+                    <div className="navbar-item" to="/">
+                      <tr>Website by: www.richisom.com</tr>
+                      <tr>Contact: risom@richisom.com</tr>
+                    </div>
+                  </li>
                 </ul>
               </section>
             </div>
