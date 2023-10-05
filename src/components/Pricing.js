@@ -20,6 +20,7 @@ const Pricing = ({ data }) => (
               </li>
             ))}
           </ul>
+          <p className="has-text-weight-semibold">{price.eventTriggerMC}</p>
         </section>
       </div>
     ))}
