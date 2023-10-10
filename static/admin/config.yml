@@ -239,6 +239,7 @@ collections:
                           name: description,
                           widget: string,
                         },
+                        { label: EventTrigger, name: eventTriggerMC, widget: string },
                         { label: Items, name: items, widget: list },
                       ],
                   },

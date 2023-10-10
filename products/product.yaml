@@ -1,0 +1,28 @@
+- meta:
+    id: 1
+    sku: SMALL0001
+    createdAt: 2020-10-01
+  name: Small Coffee
+  description: Small
+  appearance: IDK
+- meta:
+    id: 2
+    sku: MED0001
+    createdAt: 2020-10-03
+  name: Medium Coffee
+  description: Medium
+  appearance: IDK
+- meta:
+    id: 3
+    sku: LARGE0001
+    createdAt: 2020-10-02
+  name: Large Coffee
+  description: Large
+  appearance: IDK
+- meta:
+    id: 4
+    sku: SMALL0003
+    createdAt: 2020-10-05
+  name: Small Milk
+  description: MSall
+  appearance: IDK
