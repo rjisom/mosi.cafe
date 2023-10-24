@@ -12,3 +12,7 @@ tags:
   - mosi.cafe
 ---
 Coffee in my clouds?
+
+![cloud face](/img/coffee_cloud2.png "This one looks funny")
+
+![whiskey](/img/good-stuff.png "This stuff is really good!")
